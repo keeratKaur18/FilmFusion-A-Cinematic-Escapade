@@ -1,4 +1,4 @@
-# movie_APP
+# movie_APP:
 Flutter based android application.
 
 This is a Movies mobile application,which has features such as a login page,register page and a home page which displays the different categories of movies.An added feature is that on clicking the movie poster,you can see the description of the movies as well!
@@ -7,7 +7,16 @@ Email and password authentication is done using Firebase.
 API USED - TMDB Api
 https://developers.themoviedb.org/3/getting-started/introduction
 
-# UI Of Application
+#Features:
+-Login Page
+-Register Now page
+-Email and password authentication
+-Display of different category of movies
+-Description of movies on clicking poster
+-Average Rating,Release Date,Movie Summary
+-log out button
+
+# UI Of Application:
 
 
 
