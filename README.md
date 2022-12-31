@@ -23,11 +23,13 @@ https://developers.themoviedb.org/3/getting-started/introduction
 
 # UI Of Application:
 ![Screenshot_1672474789](https://user-images.githubusercontent.com/98026175/210130480-6a05d178-a461-49ae-856e-037cb7f9f5cc.png)
+
 ![Screenshot_1672474795](https://user-images.githubusercontent.com/98026175/210130501-d493e98c-22cb-42ce-adf8-39d7d3975422.png)
 ![Screenshot_1672474806](https://user-images.githubusercontent.com/98026175/210130504-b2e43e23-15e2-4e18-9c9a-4489064b0e05.png)
 ![Screenshot_1672474810](https://user-images.githubusercontent.com/98026175/210130508-093a12ba-2d63-472d-b7ff-daccc0d5d388.png)
+![Screenshot_1672474815](https://user-images.githubusercontent.com/98026175/210130520-76795277-8236-4a3d-a7b5-aeec6ebed593.png)
 ![Screenshot_1672474831](https://user-images.githubusercontent.com/98026175/210130510-eb4368c6-f4d2-4f42-bf93-a5ebf1e867a2.png)
-
+![Screenshot_1672474820](https://user-images.githubusercontent.com/98026175/210130521-e2311fdf-69be-4b5e-8e72-28d1a7e21d61.png)
 
 # Working Of Application:
 https://drive.google.com/file/d/1-yyCeIEK9VglM2Vvt3-zjZODoP9P5d9O/view?usp=share_link
