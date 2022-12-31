@@ -22,6 +22,11 @@ https://developers.themoviedb.org/3/getting-started/introduction
 * tmdb_api:
 
 # UI Of Application:
+![Screenshot_1672474789](https://user-images.githubusercontent.com/98026175/210130480-6a05d178-a461-49ae-856e-037cb7f9f5cc.png)
+![Screenshot_1672474795](https://user-images.githubusercontent.com/98026175/210130501-d493e98c-22cb-42ce-adf8-39d7d3975422.png)
+![Screenshot_1672474806](https://user-images.githubusercontent.com/98026175/210130504-b2e43e23-15e2-4e18-9c9a-4489064b0e05.png)
+![Screenshot_1672474810](https://user-images.githubusercontent.com/98026175/210130508-093a12ba-2d63-472d-b7ff-daccc0d5d388.png)
+![Screenshot_1672474831](https://user-images.githubusercontent.com/98026175/210130510-eb4368c6-f4d2-4f42-bf93-a5ebf1e867a2.png)
 
 
 # Working Of Application:
