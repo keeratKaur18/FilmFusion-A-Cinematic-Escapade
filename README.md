@@ -7,16 +7,24 @@ Email and password authentication is done using Firebase.
 API USED - TMDB Api
 https://developers.themoviedb.org/3/getting-started/introduction
 
-#Features:
--Login Page
--Register Now page
--Email and password authentication
--Display of different category of movies
--Description of movies on clicking poster
--Average Rating,Release Date,Movie Summary
--log out button
+# Features:
+* Login Page\
+* Register Now page\
+* Email and password authentication\
+* Display of different category of movies\
+* Description of movies on clicking poster\
+* Average Rating,Release Date,Movie Summary\
+* log out button
+
+# Dependencies:
+* firebase_auth: ^4.2.4
+* firebase_core: ^2.4.1
+* tmdb_api:
 
 # UI Of Application:
+
+# Working Of Application:
+https://drive.google.com/file/d/1-yyCeIEK9VglM2Vvt3-zjZODoP9P5d9O/view?usp=share_link
 
 
 
