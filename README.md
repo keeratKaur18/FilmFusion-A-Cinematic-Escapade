@@ -8,12 +8,12 @@ API USED - TMDB Api
 https://developers.themoviedb.org/3/getting-started/introduction
 
 # Features:
-* Login Page\
-* Register Now page\
-* Email and password authentication\
-* Display of different category of movies\
-* Description of movies on clicking poster\
-* Average Rating,Release Date,Movie Summary\
+* Login Page
+* Register Now page
+* Email and password authentication
+* Display of different category of movies
+* Description of movies on clicking poster
+* Average Rating,Release Date,Movie Summary
 * log out button
 
 # Dependencies:
