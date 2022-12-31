@@ -1,4 +1,5 @@
-# Movies App
+# movie_APP
+Flutter based android application.
 
 This is a Movies mobile application,which has features such as a login page,register page and a home page which displays the different categories of movies.An added feature is that on clicking the movie poster,you can see the description of the movies as well!
 
